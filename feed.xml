@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Jasmine</title>
+    <link href="https://lojasmine.github.io/LoJasmine/feed.xml" rel="self" />
+    <link href="https://lojasmine.github.io/LoJasmine" />
+    <updated>2024-03-28T22:56:02+08:00</updated>
+    <author>
+        <name>jasmine</name>
+    </author>
+    <id>https://lojasmine.github.io/LoJasmine</id>
+
+    <entry>
+        <title>屁蟲</title>
+        <author>
+            <name>jasmine</name>
+        </author>
+        <link href="https://lojasmine.github.io/LoJasmine/gen-pi-chong-2.html"/>
+        <id>https://lojasmine.github.io/LoJasmine/gen-pi-chong-2.html</id>
+
+        <updated>2024-03-28T22:55:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                    12344555555
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>12344555555</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>自我介紹</title>
+        <author>
+            <name>jasmine</name>
+        </author>
+        <link href="https://lojasmine.github.io/LoJasmine/zi-wo-jie-shao.html"/>
+        <id>https://lojasmine.github.io/LoJasmine/zi-wo-jie-shao.html</id>
+        <media:content url="https://lojasmine.github.io/LoJasmine/media/posts/3/LINE_ALBUM_0202Lan-Dong_240202_59.jpg" medium="image" />
+            <category term="簡介"/>
+
+        <updated>2024-03-28T22:27:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lojasmine.github.io/LoJasmine/media/posts/3/LINE_ALBUM_0202Lan-Dong_240202_59.jpg" alt="" />
+                    羅安禾
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lojasmine.github.io/LoJasmine/media/posts/3/LINE_ALBUM_0202Lan-Dong_240202_59.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 class="align-center">羅安禾</h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>跟屁蟲</title>
+        <author>
+            <name>jasmine</name>
+        </author>
+        <link href="https://lojasmine.github.io/LoJasmine/gen-pi-chong.html"/>
+        <id>https://lojasmine.github.io/LoJasmine/gen-pi-chong.html</id>
+        <media:content url="https://lojasmine.github.io/LoJasmine/media/posts/2/_com.apple.Pasteboard.lB0c0H.PNG" medium="image" />
+            <category term="蟲蟲"/>
+
+        <updated>2024-03-28T22:19:03+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lojasmine.github.io/LoJasmine/media/posts/2/_com.apple.Pasteboard.lB0c0H.PNG" class="type:primaryImage" alt="跟屁蟲" /></p>
+                
+<p>12345</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>胎</title>
+        <author>
+            <name>jasmine</name>
+        </author>
+        <link href="https://lojasmine.github.io/LoJasmine/jasmine.html"/>
+        <id>https://lojasmine.github.io/LoJasmine/jasmine.html</id>
+        <media:content url="https://lojasmine.github.io/LoJasmine/media/posts/1/_com.apple.Pasteboard.Ay8M3j.PNG" medium="image" />
+            <category term="蟲蟲"/>
+
+        <updated>2024-03-28T21:35:53+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lojasmine.github.io/LoJasmine/media/posts/1/_com.apple.Pasteboard.Ay8M3j.PNG" class="type:primaryImage" alt="胎" /></p>
+                <figure class="post__image"><a href="https://youtube.com/shorts/g8VuRGWx4FI?si=z1yu-jX_NHq0SCqe"></a><img loading="lazy"  src="https://lojasmine.github.io/LoJasmine/media/posts/1/_com.apple.Pasteboard.57SAjK.PNG" alt="" width="2403" height="3693" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://lojasmine.github.io/LoJasmine/media/posts/1/responsive/_com.apple.Pasteboard.57SAjK-xs.PNG 300w ,https://lojasmine.github.io/LoJasmine/media/posts/1/responsive/_com.apple.Pasteboard.57SAjK-sm.PNG 480w ,https://lojasmine.github.io/LoJasmine/media/posts/1/responsive/_com.apple.Pasteboard.57SAjK-md.PNG 768w ,https://lojasmine.github.io/LoJasmine/media/posts/1/responsive/_com.apple.Pasteboard.57SAjK-lg.PNG 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
